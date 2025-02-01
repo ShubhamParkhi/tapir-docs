@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [System Workflow](publish-your-docs.md)
-* [Architecture](quickstart.md)
-* [Security & Risk Management](security-and-risk-management.md)
+* [Introduction](Introduction.md)
+* [System Workflow](System%20workflow.md)
+* [Architecture](Architecture.md)
+* [Security & Risk Management](Security%20and%20risk%20management.md)
 
 ## Core Modules
 
