@@ -14,8 +14,6 @@
 
 ## Tokenomics
 
-***
-
-* [Tapir Protocol Tokenomics](tapir-protocol-tokenomics.md)
-* [Token Distribution](token-distribution.md)
-* [DAO Operation](dao-operation.md)
+* [Tapir Protocol Tokenomics](tokenomics/tapir-protocol-tokenomics.md)
+* [Token Distribution](tokenomics/token-distribution.md)
+* [DAO Operation](tokenomics/dao-operation.md)
