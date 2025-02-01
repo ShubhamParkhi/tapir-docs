@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [System Workflow](System%20workflow.md)
+* [System Workflow](<System workflow.md>)
 * [Architecture](Architecture.md)
-* [Security & Risk Management](Security%20and%20risk%20management.md)
+* [Security & Risk Management](<Security and risk management.md>)
 
 ## Core Modules
 
@@ -14,10 +14,8 @@
 
 ## Tokenomics
 
-[Overview](tokenomics/0-tokenomics.md)
-[Token Distribution](tokenomics/1-token-distribution.md)
-[DAO Operation](tokenomics/2-dao-operation.md)
-[Token Uses & Mechanisms](tokenomics/3-token-uses-mechanisms.md)
-[Vesting Periods](tokenomics/4-vesting-periods.md)
-[Token Incentives](tokenomics/5-token-incentives.md)
-[Summary and Conclusion](tokenomics/6-summary-conclusion.md)
+***
+
+* [Tapir Protocol Tokenomics](tapir-protocol-tokenomics.md)
+* [Token Distribution](token-distribution.md)
+* [DAO Operation](dao-operation.md)
