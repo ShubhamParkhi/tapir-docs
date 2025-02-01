@@ -1,17 +1,18 @@
-# Vesting Periods  
+# Vesting Periods
 
-### Investors, Advisors & Team 
+Investors, Advisors & Team
 
-- **Cliff**: 1 year (no tokens accessible until mainnet launch + 12 months).  
-- **Unlock Schedule**: Linear release over the next 12 months.  
-   > Example: 20% allocation = 1.67% unlocked monthly post-cliff.  
+* **Cliff**: 1 year (no tokens accessible until mainnet launch + 12 months).
+*   **Unlock Schedule**: Linear release over the next 12 months.
 
-### Incentivization Programs 
+    > Example: 20% allocation = 1.67% unlocked monthly post-cliff.
 
-- **Lockup**: 1-year lock on claimed rewards.  
-- **Gas Costs**: Users pay gas to claim tokens, discouraging small claims.  
+#### Incentivization Programs
 
-### Sustainability Measures 
+* **Lockup**: 1-year lock on claimed rewards.
+* **Gas Costs**: Users pay gas to claim tokens, discouraging small claims.
 
-- **Staker Rewards**: Early TPR payouts to bootstrap liquidity.  
-- **Long-Term Alignment**: Stakeholders retain tokens for governance participation.  
+#### Sustainability Measures
+
+* **Staker Rewards**: Early TPR payouts to bootstrap liquidity.
+* **Long-Term Alignment**: Stakeholders retain tokens for governance participation.
