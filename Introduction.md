@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Introduction
 
 Tapir Protocol is a next-generation Liquid Restaking Token (LRT) protocol designed to empower investors with **tunable risk and yield** strategies. Built for both risk-averse and yield-seeking participants, Tapir combines the benefits of restaking with modular financial instruments that let users tailor their exposure to slashing risks, volatility, and rewards. By integrating innovative features like depeg protection, fixed yield options, and leveraged yield strategies, Tapir addresses the core challenges of traditional restaking—heterogeneous risks and capital inefficiency—while unlocking unprecedented flexibility in decentralized finance (DeFi).
