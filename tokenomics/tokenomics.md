@@ -14,32 +14,32 @@ Tapir Protocol's tokenomics is designed to foster sustainable growth, align ince
 
 ## Core Components
 
-1. [Token Distribution](1-token-distribution.md)
+1. [Token Distribution](token-distribution.md)
    - Initial token allocation
    - Distribution schedule
    - Supply management
 
-2. [DAO Operation](2-dao-operation.md)
+2. [DAO Operation](dao-operation.md)
    - Governance structure
    - Decision-making process
    - Community participation
 
-3. [Token Uses & Mechanisms](3-token-uses-mechanisms.md)
+3. [Token Uses & Mechanisms](token-uses-mechanisms.md)
    - Utility functions
    - Protocol interactions
    - Value creation mechanisms
 
-4. [Vesting Periods](4-vesting-periods.md)
+4. [Vesting Periods](vesting-periods.md)
    - Stakeholder vesting schedules
    - Lock-up periods
    - Release mechanisms
 
-5. [Token Incentives](5-token-incentives.md)
+5. [Token Incentives](token-incentives.md)
    - Staking rewards
    - Participation benefits
    - Growth initiatives
 
-6. [Summary & Conclusion](6-summary-conclusion.md)
+6. [Summary & Conclusion](summary-conclusion.md)
    - Key takeaways
    - Future outlook
    - Ecosystem sustainability

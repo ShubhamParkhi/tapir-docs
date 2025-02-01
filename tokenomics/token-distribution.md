@@ -1,13 +1,10 @@
----
-description: >-
-  The Tapir token (TPR) is distributed across six categories to balance
-  liquidity, growth, and long-term alignment.
----
-
 # Token Distribution
 
-#### Allocation Details
+### Overview  
 
+The Tapir token (TPR) is distributed across six categories to balance liquidity, growth, and long-term alignment.  
+
+### Allocation Details  
 | **Category**              | **Allocation** | **Lockup/Vesting**           | **Purpose**                                                               |
 | ------------------------- | -------------- | ---------------------------- | ------------------------------------------------------------------------- |
 | **Token Public Sale**     | 30%            | Immediate unlock             | Open sales to the public via platforms (e.g., exchanges, launchpads).     |
@@ -17,12 +14,12 @@ description: >-
 | **Incentives**            | 20%            | 1-year lock                  | Rewards for liquidity providers, stakers, and early contributors.         |
 | **Reserve**               | 10%            | Treasury-held                | Emergency funds, strategic initiatives, or future protocol upgrades.      |
 
-#### Pie Chart Visualization
+### Pie Chart Visualization  
 
-![](https://i.imgur.com/n401fjc.png)
+![](https://i.imgur.com/n401fjc.png)  
 
-#### Technical Implementation
+### Technical Implementation
 
-* **Public/Presale**: Tokens minted upon purchase and transferred to buyer wallets.
-* **Partnerships/Team**: Tokens held in escrow with vesting logic enforced by timelock contracts.
-* **Incentives**: Rewards distributed via claimable contracts with built-in lockups.
+- **Public/Presale**: Tokens minted upon purchase and transferred to buyer wallets.  
+- **Partnerships/Team**: Tokens held in escrow with vesting logic enforced by timelock contracts.  
+- **Incentives**: Rewards distributed via claimable contracts with built-in lockups.  
