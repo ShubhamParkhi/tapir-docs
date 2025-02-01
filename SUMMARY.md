@@ -14,10 +14,10 @@
 
 ## Tokenomics
 
-[Overview](0-tokenomics.md)
-[Token Distribution](1-token-distribution.md)
-[DAO Operation](2-dao-operation.md)
-[Token Uses & Mechanisms](3-token-uses-mechanisms.md)
-[Vesting Periods](4-vesting-periods.md)
-[Token Incentives](5-token-incentives.md)
-[Summary and Conclusion](6-summary-conclusion.md)
+[Overview](tokenomics/0-tokenomics.md)
+[Token Distribution](tokenomics/1-token-distribution.md)
+[DAO Operation](tokenomics/2-dao-operation.md)
+[Token Uses & Mechanisms](tokenomics/3-token-uses-mechanisms.md)
+[Vesting Periods](tokenomics/4-vesting-periods.md)
+[Token Incentives](tokenomics/5-token-incentives.md)
+[Summary and Conclusion](tokenomics/6-summary-conclusion.md)
