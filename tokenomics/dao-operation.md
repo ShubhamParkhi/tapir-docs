@@ -1,10 +1,10 @@
 # DAO Operation
 
-Structure
+## Structure
 
 The DAO governs all protocol decisions, funded by proceeds from token sales and protocol fees.
 
-#### Key Processes
+## Key Processes
 
 1. **Treasury Management**
    * Funds stored in a multi-signature wallet.
@@ -14,7 +14,7 @@ The DAO governs all protocol decisions, funded by proceeds from token sales and 
    * **Voting**: Token holders vote using TPR (1 token = 1 vote).
    * **Execution**: Approved proposals trigger automated fund releases via smart contracts.
 
-#### Example Proposal
+## Example Proposal
 
 * **Title**: "Integrate with Layer-2 Solution"
 * **Request**: 50,000 TPR from the treasury.

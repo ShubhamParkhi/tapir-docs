@@ -1,10 +1,10 @@
 # Token Incentives
 
-#### Objective
+## Objective
 
 Drive protocol growth by targeting **TVL** and **liquidity for depeg protection**.
 
-#### Mechanism Design
+## Mechanism Design
 
 | **Feature**             | **Description**                                                                |
 | ----------------------- | ------------------------------------------------------------------------------ |
@@ -13,7 +13,7 @@ Drive protocol growth by targeting **TVL** and **liquidity for depeg protection*
 | **Pro-Rata Allocation** | Larger liquidity providers earn more TPR proportionally.                       |
 | **Anti-Dilution Caps**  | Max 1,000 TPR per ETH to prevent overspending.                                 |
 
-#### Example Scenario
+## Example Scenario
 
 * **Target TVL**: 1,000 ETH.
 * **Actual TVL**: 1,200 ETH (+20%).

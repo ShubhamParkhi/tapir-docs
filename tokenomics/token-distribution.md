@@ -1,10 +1,10 @@
 # Token Distribution
 
-#### Overview
+## Overview
 
 The Tapir token (TPR) is distributed across six categories to balance liquidity, growth, and long-term alignment.
 
-#### Allocation Details
+## Allocation Details
 
 | **Category**              | **Allocation** | **Lockup/Vesting**           | **Purpose**                                                               |
 | ------------------------- | -------------- | ---------------------------- | ------------------------------------------------------------------------- |
@@ -15,11 +15,11 @@ The Tapir token (TPR) is distributed across six categories to balance liquidity,
 | **Incentives**            | 20%            | 1-year lock                  | Rewards for liquidity providers, stakers, and early contributors.         |
 | **Reserve**               | 10%            | Treasury-held                | Emergency funds, strategic initiatives, or future protocol upgrades.      |
 
-#### Pie Chart Visualization
+## Pie Chart Visualization
 
 ![](https://i.imgur.com/n401fjc.png)
 
-#### Technical Implementation
+## Technical Implementation
 
 * **Public/Presale**: Tokens minted upon purchase and transferred to buyer wallets.
 * **Partnerships/Team**: Tokens held in escrow with vesting logic enforced by timelock contracts.
