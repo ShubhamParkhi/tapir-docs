@@ -14,18 +14,53 @@ layout:
 
 # Introduction
 
-Tapir Protocol is a next-generation decentralized platform designed to empower investors with tools to manage risk and optimize returns in DeFi. It is made to empower investors with **tunable risk and yield** strategies. Built for both risk-averse and yield-seeking participants, Tapir combines the benefits of restaking with modular financial instruments that let users tailor their exposure to slashing risks, volatility, and rewards. By integrating innovative features like depeg protection, fixed yield options, and leveraged yield strategies, Tapir addresses the core challenges of traditional restaking—heterogeneous risks and capital inefficiency—while unlocking unprecedented flexibility in decentralized finance (DeFi).
+Tapir Protocol is a decentralized **depeg protection marketplace** that redefines risk management in decentralized finance (DeFi). Unlike traditional insurance models that lock capital in unproductive reserves, Tapir enables users to buy or sell protection against asset depegs (e.g., slashing, protocol hacks) while keeping their assets fully productive. By merging yield generation with customizable risk mitigation, Tapir empowers investors to optimize their strategies without sacrificing returns.
 
-## **Core Innovations**
+***
 
-1. **Depeg Protection Module**
-   * Buy or sell protection against asset devaluations without sacrificing yield.
-   * Split tokens into risk-bearing (YB) and protection-bearing (DP) components.
-2. **Fixed Yield Module**
-   * **Stability for Conservatives:** Lock in predictable returns by fixing future yields, ideal for risk-averse investors.
-   * **Leveraged Opportunities:** Speculators can multiply their exposure to restaking yields by trading variable yield tokens, capturing upside potential.
-3. **Modular Design**
-   * Combine strategies like fixed yield + depeg protection for bespoke risk-reward profiles.
-   * **No idle capital:** All assets remain productive, earning yield even while providing protection.
+## **Tapir’s Depeg Protection Marketplace**
 
-By merging the safety of traditional staking with the upside of restaking, Tapir Protocol redefines how investors engage with decentralized finance—balancing innovation, security, and flexibility in one modular platform.
+### How It Works
+
+Tapir’s marketplace allows users to trade depeg risk through tokenized protection contracts. Here’s the core mechanism:
+
+1. **Token Splitting**: Users split their productive assets (e.g., `wtETH`) into two components:
+   * **DP (Depeg Protected Asset)**: Acts as insurance, compensating holders if the asset’s value drops below a predefined threshold.
+   * **YB (Yield Boosted Asset)**: Amplifies returns by assuming depeg risk, sold to yield-seeking investors.
+2. **Dynamic Trading**: DP and YB tokens are traded on an integrated AMM, enabling real-time pricing of risk and yield.
+3. **Capital Efficiency**: All assets remain staked or restaked, generating yield even while used for protection.
+
+***
+
+### **Key Benefits**
+
+**1. For Protection Buyers (DP Holders)**
+
+* **Hedge Risks Without Sacrificing Yield**: Protect against slashing or hacks while earning full staking/restaking rewards.
+* **Flexible Coverage**: Choose protection periods (e.g., 30, 90 days) and customize exposure by trading DP/YB tokens.
+
+**2. For Protection Sellers (YB Holders)**
+
+* **Earn Premiums**: Profit from underwriting depeg risk by selling YB tokens.
+* **Capital Productivity**: YB tokens derive value from the underlying productive asset (e.g., `wtETH`), avoiding idle collateral.
+
+**3. For the DeFi Ecosystem**
+
+* **Liquidity for Risk**: Creates a liquid market for pricing and transferring risk, addressing a critical gap in DeFi.
+* **No Dead Capital**: Eliminates inefficient models where insurance requires locking stablecoins or ETH.
+
+***
+
+### **Why Tapir Stands Out**
+
+#### 1. **Decentralized Risk Pricing**
+
+* AMM-driven markets let supply/demand dynamically set the cost of depeg protection, reflecting real-time risk sentiment.
+
+#### 2. **Time-Bound Pools**
+
+* Protection pools expire after fixed durations (e.g., 90 days), enabling structured risk management and recurring opportunities for sellers.
+
+#### 3. **Transparent Resolution**
+
+* Automated depeg checks at pool expiry use on-chain price oracles to determine payouts, ensuring fairness and trustlessness.

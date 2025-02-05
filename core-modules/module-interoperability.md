@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Module Interoperability
 
 * **`wtETH` as Base Asset:** Both Depeg Protection and Fixed Yield modules rely on `wtETH` for stable value representation.

@@ -21,20 +21,6 @@ This module allows users to hedge against asset devaluations (e.g., slashing, ha
 
 ***
 
-### **Fixed Yield Module**
-
-Designed for predictability, this module splits underlying assets into:
-
-* **PT (Principal Token)**: Guarantees fixed returns.
-* **YT (Yield Token)**: Offers leveraged exposure to variable yields.
-
-**Use Cases**:
-
-* Risk-averse investors hold PT for stable income.
-* Yield seekers trade YT to amplify returns.
-
-***
-
 ### **Automated Market Makers (AMMs)**
 
 * **DP/YB AMM**: Facilitates swaps between protection and yield tokens. Uses a stableswap curve to minimize slippage.
