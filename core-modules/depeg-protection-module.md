@@ -47,7 +47,7 @@ _Example_: Bob buys Alice’s YB tokens. If no slashing happens, Bob profits.
 
 ***
 
-#### **Why It’s Better Than Traditional Insurance**
+## **Why It’s Better Than Traditional Insurance**
 
 * **No Dead Money**: Your assets stay staked and earn rewards the whole time.
 * **You Set the Price**: DP/YB tokens trade freely on a built-in market (AMM), so risk pricing is fair and transparent.
@@ -55,7 +55,7 @@ _Example_: Bob buys Alice’s YB tokens. If no slashing happens, Bob profits.
 
 ***
 
-#### **Who Uses This?**
+## **Who Uses This?**
 
 * **Safety-First Users**: Buy DP tokens to sleep well at night.
 * **Risk-Takers**: Buy YB tokens to earn extra rewards.
@@ -63,7 +63,7 @@ _Example_: Bob buys Alice’s YB tokens. If no slashing happens, Bob profits.
 
 ***
 
-**Think of it like this**:
+## **Think of it like this**:
 
 * **DP** = Umbrella (keeps you dry in rain).
 * **YB** = Betting it won’t rain (cheaper to buy, but you get soaked if it does).
