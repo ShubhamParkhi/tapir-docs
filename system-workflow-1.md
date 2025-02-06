@@ -2,7 +2,7 @@
 
 ### 1. **Pool Creation**
 
-* **Factory Contracts**: Automatically deploy new Depeg Pools (e.g., `DP_wtETH_0624`) and their associated DP/YB tokens.
+* **Factory Contracts**: Automatically deploy new Depeg Pools and their associated DP/YB tokens.
 * **Time-Bound Design**: Each pool has a predefined expiry date (e.g., 90 days), ensuring structured risk periods and predictable resolution.
 
 ***
@@ -45,7 +45,7 @@
 
 ### 4. **Yield Distribution**
 
-* **Rebasing**: Automatically distributes restaking rewards to holders (e.g., staking yields from Eigenlayer).
+* **Rebasing**: Automatically distributes rewards to holders (e.g., staking yields from Eigenlayer).
 * **YB Holders**: Earn premiums from DP buyers via AMM swaps, enhancing their effective yield.
 
 ***

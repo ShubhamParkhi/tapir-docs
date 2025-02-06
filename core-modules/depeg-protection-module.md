@@ -2,7 +2,7 @@
 
 ## **Purpose**
 
-Tapir’s Depeg Protection Module lets you **protect your assets** (like ETH) from losses caused by slashing or hacks—while still earning rewards. Think of it as buying insurance for your crypto, but instead of paying cash, you use your _productive assets_ (which keep generating yield!).
+Tapir's Depeg Protection Module lets you **protect your assets** from losses caused by depegs while still earning rewards. Think of it as buying insurance for your crypto, but instead of paying cash, you use your assets (which keep generating yield!).
 
 ## **How It Works**
 
@@ -10,26 +10,26 @@ Tapir’s Depeg Protection Module lets you **protect your assets** (like ETH) fr
 
 * Deposit asset into a Tapir pool.
 * For every 1 token you deposit, you get two tokens:
-  * **DP Token (Insurance)**: Protects you if the asset’s value drops.
+  * **DP Token (Insurance)**: Protects you if the asset's value drops.
   * **YB Token (Risk Taker)**: Earns extra rewards but absorbs losses if things go wrong.
 
-_Example_: Alice deposits 100 `wtETH` → gets 50 DP + 50 YB.
+_Example_: Alice deposits 1000 token_A → gets 500 DP + 500 YB.
 
 ***
 
 **2. Trade or Hold**
 
-* **Want Safety?** Sell YB tokens to buy more DP. Now you’re fully protected!
-* **Chase Higher Rewards?** Buy YB tokens (they’re cheaper) and earn premiums from DP sellers.
+* **Want Safety?** Sell YB tokens to buy more DP. Now you're fully protected!
+* **Chase Higher Rewards?** Buy YB tokens (they're cheaper) and earn premiums from DP sellers.
 
-_Example_: Bob buys Alice’s YB tokens. If no slashing happens, Bob profits.
+_Example_: Bob buys Alice's YB tokens. If no depeg happens, Bob profits.
 
 ***
 
 **3. Wait for the Pool to Expire**
 
 * Each pool lasts a fixed time (e.g., 90 days).
-* After expiry, Tapir checks if a depeg (like a slashing event) occurred.
+* After expiry, Tapir checks if a depeg occurred.
 
 ***
 
@@ -37,7 +37,7 @@ _Example_: Bob buys Alice’s YB tokens. If no slashing happens, Bob profits.
 
 * **No Depeg**:
   * Trade **1 DP + 1 YB → 1 token** (you get back your full value).
-  * _Alice redeems 50 DP + 50 YB → 100 `wtETH`_.
+  * _Alice redeems 500 DP + 500 YB → 1000 token_A_.
 * **Depeg Happens**:
   * **DP Holders**: Get back 100% of their asset (protected!).
   * **YB Holders**: Lose value proportional to the depeg.

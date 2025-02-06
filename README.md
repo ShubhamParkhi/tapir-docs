@@ -14,21 +14,21 @@ layout:
 
 # Introduction
 
-Tapir Protocol is a decentralized **depeg protection marketplace** that redefines risk management in decentralized finance (DeFi). Unlike traditional insurance models that lock capital in unproductive reserves, Tapir enables users to buy or sell protection against asset depegs (e.g., slashing, protocol hacks) while keeping their assets fully productive. By merging yield generation with customizable risk mitigation, Tapir empowers investors to optimize their strategies without sacrificing returns.
+Tapir Protocol is a decentralized **depeg protection marketplace** that redefines risk management in decentralized finance (DeFi). Unlike traditional insurance models that lock capital in unproductive reserves, Tapir enables users to buy or sell protection against asset depegs while keeping their assets fully productive. By merging yield generation with customizable risk mitigation, Tapir empowers investors to optimize their strategies without sacrificing returns.
 
 ***
 
-## **Tapir’s Depeg Protection Marketplace**
+## **Tapir's Depeg Protection Marketplace**
 
 ### How It Works
 
-Tapir’s marketplace allows users to trade depeg risk through tokenized protection contracts. Here’s the core mechanism:
+Tapir's marketplace allows users to trade depeg risk through tokenized protection contracts. Here's the core mechanism:
 
-1. **Token Splitting**: Users split their productive assets (e.g., `wtETH`) into two components:
-   * **DP (Depeg Protected Asset)**: Acts as insurance, compensating holders if the asset’s value drops below a predefined threshold.
+1. **Token Splitting**: Users split their assets (e.g., sUSDe or any token_A) into two components:
+   * **DP (Depeg Protected Asset)**: Acts as insurance, compensating holders if the asset's value drops below a predefined threshold.
    * **YB (Yield Boosted Asset)**: Amplifies returns by assuming depeg risk, sold to yield-seeking investors.
 2. **Dynamic Trading**: DP and YB tokens are traded on an integrated AMM, enabling real-time pricing of risk and yield.
-3. **Capital Efficiency**: All assets remain staked or restaked, generating yield even while used for protection.
+3. **Capital Efficiency**: All assets remain productive, generating yield even while used for protection.
 
 ***
 
@@ -36,13 +36,13 @@ Tapir’s marketplace allows users to trade depeg risk through tokenized protect
 
 **1. For Protection Buyers (DP Holders)**
 
-* **Hedge Risks Without Sacrificing Yield**: Protect against slashing or hacks while earning full staking/restaking rewards.
+* **Hedge Risks Without Sacrificing Yield**: Protect against depegs while maintaining your asset's yield potential.
 * **Flexible Coverage**: Choose protection periods (e.g., 30, 90 days) and customize exposure by trading DP/YB tokens.
 
 **2. For Protection Sellers (YB Holders)**
 
 * **Earn Premiums**: Profit from underwriting depeg risk by selling YB tokens.
-* **Capital Productivity**: YB tokens derive value from the underlying productive asset (e.g., `wtETH`), avoiding idle collateral.
+* **Capital Productivity**: YB tokens derive value from the underlying asset (e.g., sUSDe), avoiding idle collateral.
 
 **3. For the DeFi Ecosystem**
 

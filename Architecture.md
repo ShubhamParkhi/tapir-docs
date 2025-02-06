@@ -16,7 +16,7 @@ This module allows users to hedge against asset devaluations (e.g., slashing, ha
 
 **Example**:
 
-* Alice splits 100 `wtETH` into 50 DP and 50 YB. She sells YB to buy more DP, reducing her risk.
+* Alice splits 100 `sUSDe` into 50 DP and 50 YB. She sells YB to buy more DP, reducing her risk.
 * Bob buys YB to amplify his returns, betting no depeg will occur.
 
 ***
