@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # System Workflow
 
 ### 1. **Pool Creation**
@@ -58,4 +62,4 @@
 
 ***
 
-\
+\\
