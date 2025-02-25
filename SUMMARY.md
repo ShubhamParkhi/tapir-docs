@@ -5,6 +5,7 @@
 * [Architecture](Architecture.md)
 * [System Workflow](system-workflow-1.md)
 * [Security & Risk Management](<Security and risk management.md>)
+* [Tapir Cast of Characters](tapir-cast-of-characters.md)
 * [Tapir FAQ](tapir-faq.md)
 
 ## Core Modules
